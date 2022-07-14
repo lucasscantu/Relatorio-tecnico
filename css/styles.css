@@ -13,6 +13,11 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+.relatorio{
+    height:700px;
+    width: 500px;
+    background-color: gray;
+}
 
 :root {
     --bs-blue: #0d6efd;
@@ -11523,7 +11528,6 @@ body {
 }
 
 .projects-section {
-    height: 900px;
     padding-top: 10rem;
 }
 
